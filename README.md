@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 6 hours developing apps everyday.
 
-[![Twitter: vishalthakur290](https://img.shields.io/twitter/follow/vikashviraj2?style=social)](https://twitter.com/vikashviraj2)
+[![Twitter: vishalthakur290](https://img.shields.io/twitter/follow/vishalthakur290?style=social)](https://twitter.com/vishalthakur290)
 [![Linkedin: vishalthakur290](https://img.shields.io/badge/-vishalthakur290-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishalthakur290/)](https://www.linkedin.com/in/vishalthakur290/)
 [![GitHub iampawan](https://img.shields.io/github/followers/vishalthakur290?label=follow&style=social)](https://github.com/vishalthakur290)
 
@@ -77,9 +77,6 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/vishalthakur290">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalthakur290&show_icons=true&theme=dark&line_height=27" alt="Vishal Thakur's github stats"/>
-</a>
-<a href="https://github.com/vikashviraj/School-Management-System-Using-PHP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikashviraj&repo=School-Management-System-Using-PHP&theme=dark" />
 </a>
 
 <div align="center">
