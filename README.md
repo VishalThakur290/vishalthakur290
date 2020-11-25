@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Reactjs.
 - 👯 I’m looking to collaborate on [Instagram](https://instagram.com/vishal.thakur25).
 - 🤔 I’m looking for help with Flutter.
-- 💬 Ask me about Flutter or any tech related stuff.
+- 💬 Ask me about tech related stuff.
 - 📫 How to reach me: [Twitter - @vishalthakur290](https://twitter.com/vishalthakur290) , [Instagram - @vishal.thakur25](https://instagram.com/vishal.thakur25)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 6 hours developing apps everyday.
