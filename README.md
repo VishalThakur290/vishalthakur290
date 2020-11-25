@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/vishal.thakur25/">
   <img align="left" alt="Vishal Thakur's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/vikashviraj2/">
+<a href="https://www.facebook.com/vishalthakur25/">
   <img align="left" alt="Vishal Thakur's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on [Instagram](https://instagram.com/vishal.thakur25).
 - 🤔 I’m looking for help with Flutter.
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @vikashviraj2](https://twitter.com/vikashviraj2) , [Instagram - @vishal.thakur25](https://instagram.com/vikash_viraj_official)
+- 📫 How to reach me: [Twitter - @vishalthakur290](https://twitter.com/vishalthakur290) , [Instagram - @vishal.thakur25](https://instagram.com/vishal.thakur25)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 6 hours developing apps everyday.
 
 [![Twitter: vishalthakur290](https://img.shields.io/twitter/follow/vikashviraj2?style=social)](https://twitter.com/vikashviraj2)
-[![Linkedin: vishalthakur290](https://img.shields.io/badge/-vikashviraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikash-viraj/)](https://www.linkedin.com/in/vishalthakur290/)
-[![GitHub iampawan](https://img.shields.io/github/followers/vishalthakur290?label=follow&style=social)](https://github.com/vikashviraj)
+[![Linkedin: vishalthakur290](https://img.shields.io/badge/-vishalthakur290-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishalthakur290/)](https://www.linkedin.com/in/vishalthakur290/)
+[![GitHub iampawan](https://img.shields.io/github/followers/vishalthakur290?label=follow&style=social)](https://github.com/vishalthakur290)
 
 
 **Languages and Tools:**  
@@ -80,7 +80,6 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/vikashviraj/School-Management-System-Using-PHP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikashviraj&repo=School-Management-System-Using-PHP&theme=dark" />
-
 </a>
 
 <div align="center">
