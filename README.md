@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashviraj&label=Views&color=blue&style=plastic" alt="vikashviraj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalthakur290&label=Views&color=blue&style=plastic" alt="vishalthakur" /> </p>
 
 <a href="https://twitter.com/vishalthakur290">
   <img align="left" alt="Vishal Thakur's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
