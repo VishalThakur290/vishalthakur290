@@ -74,6 +74,9 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/vishalthakur290">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalthakur290&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/vishalthakur290">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalthakur290&show_icons=true&theme=dark&line_height=27" alt="Vishal Thakur's github stats"/>
 </a>
 
