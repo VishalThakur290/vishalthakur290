@@ -39,14 +39,14 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on [Self Investment](https://amarpali.co.in).
-- 🌱 I’m currently learning Reactjs.
+- 🔭 I’m currently working on [Weather App](https://vishalthakur290.github.io/).
+- 🌱 I’m currently learning the implimentation of Redux with Reactjs.
 - 👯 I’m looking to collaborate on [Instagram](https://instagram.com/vishal.thakur25).
-- 🤔 I’m looking for help with Flutter.
+<!-- - 🤔 I’m looking for help with Flutter. -->
 - 💬 Ask me about tech related stuff.
 - 📫 How to reach me: [Twitter - @vishalthakur290](https://twitter.com/vishalthakur290) , [Instagram - @vishal.thakur25](https://instagram.com/vishal.thakur25)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 6 hours developing apps everyday.
+- ⚡ Fun fact: Apart from office time, I spend almost 4 hours for developing web apps everyday.
 
 [![Twitter: vishalthakur290](https://img.shields.io/twitter/follow/vishalthakur290?style=social)](https://twitter.com/vishalthakur290)
 [![Linkedin: vishalthakur290](https://img.shields.io/badge/-vishalthakur290-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishalthakur290/)](https://www.linkedin.com/in/vishalthakur290/)
