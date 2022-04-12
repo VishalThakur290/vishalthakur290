@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on [Weather App](https://vishalthakur290.github.io/).
+- 🔭 I’m currently working on [Weather App](https://vishalthakur290.github.io/weather-app.github.io/).
 - 🌱 I’m currently learning the implimentation of Redux with Reactjs.
 - 👯 I’m looking to collaborate on [Instagram](https://instagram.com/vishal.thakur25).
 <!-- - 🤔 I’m looking for help with Flutter. -->
