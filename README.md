@@ -1,87 +1,27 @@
-### Hi I'm Vishal Thakur 👋
-
-<!--
-**VishalThakur290/vishalthakur290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me:
+- 🔭 I’m currently working on [Weather App](https://vishalthakur290.github.io/weather-app.github.io/).<br>- 🌱 I’m currently learning the implimentation of Node.js.<br>- 💬 Ask me about tech related stuff.<br>- 😄 Pronouns: He/His<br>- ⚡ Fun fact: Apart from office time, I spend almost 4 hours for developing web apps everyday.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalthakur290&label=Views&color=blue&style=plastic" alt="vishalthakur" /> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishal.thakur25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VishalThakur290) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VishalThakur290) 
 
-<a href="https://twitter.com/vishalthakur290">
-  <img align="left" alt="Vishal Thakur's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/vishalthakur290">
-  <img align="left" alt="Vishal Thakur's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/vishalthakur290">
-  <img align="left" alt="Vishal Thakur's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/vishal.thakur25/">
-  <img align="left" alt="Vishal Thakur's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/vishalthakur25/">
-  <img align="left" alt="Vishal Thakur's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VishalThakur290&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VishalThakur290&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalThakur290&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br/>
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VishalThakur290&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=VishalThakur290)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🔭 I’m currently working on [Weather App](https://vishalthakur290.github.io/weather-app.github.io/).
-- 🌱 I’m currently learning the implimentation of Redux with Reactjs.
-- 👯 I’m looking to collaborate on [Instagram](https://instagram.com/vishal.thakur25).
-<!-- - 🤔 I’m looking for help with Flutter. -->
-- 💬 Ask me about tech related stuff.
-- 📫 How to reach me: [Twitter - @vishalthakur290](https://twitter.com/vishalthakur290) , [Instagram - @vishal.thakur25](https://instagram.com/vishal.thakur25)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Apart from office time, I spend almost 4 hours for developing web apps everyday.
+---
+[![](https://visitcount.itsvg.in/api?id=VishalThakur290&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Twitter: vishalthakur290](https://img.shields.io/twitter/follow/vishalthakur290?style=social)](https://twitter.com/vishalthakur290)
-[![Linkedin: vishalthakur290](https://img.shields.io/badge/-vishalthakur290-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishalthakur290/)](https://www.linkedin.com/in/vishalthakur290/)
-[![GitHub iampawan](https://img.shields.io/github/followers/vishalthakur290?label=follow&style=social)](https://github.com/vishalthakur290)
-
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>  
-
-
-<a href="https://github.com/vishalthakur290">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalthakur290&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/vishalthakur290">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalthakur290&show_icons=true&theme=dark&line_height=27" alt="Vishal Thakur's github stats"/>
-</a>
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
