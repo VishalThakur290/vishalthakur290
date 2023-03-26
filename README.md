@@ -1,5 +1,9 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [Weather App](https://vishalthakur290.github.io/weather-app.github.io/).<br>- 🌱 I’m currently learning the implimentation of Node.js.<br>- 💬 Ask me about tech related stuff.<br>- 😄 Pronouns: He/His<br>- ⚡ Fun fact: Apart from office time, I spend almost 4 hours for developing web apps everyday.
+- 🔭 I’m currently working on [Weather App](https://vishalthakur290.github.io/weather-app.github.io/).
+- 🌱 I’m currently learning the implimentation of Node.js.
+- 💬 Ask me about tech related stuff.
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Apart from office time, I spend almost 4 hours for developing web apps everyday.
 
 
 ## 🌐 Socials:
