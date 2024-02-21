@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [Weather App](https://vishalthakur290.github.io/weather-app.github.io/).
+- 🔭 I’m currently working on [Weather App](https://modern-weather-web-app.netlify.app/).
 - 🌱 I’m currently learning the implimentation of Node.js.
 - 💬 Ask me about tech related stuff.
 - 😄 Pronouns: He/His
